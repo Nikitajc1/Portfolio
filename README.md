@@ -11,3 +11,5 @@
 Во-вторых, проекты, которыми я занимался, чтобы "набить руку":
 - Функциональное и тестирование интерфейса в [приложении flashcards maker](https://play.google.com/store/apps/details?id=com.ubacoda.fashcards). Нашел несколько багов и
 составил на них [баг-репорт в Jira на английском](https://nikitajc1.atlassian.net/jira/software/c/projects/FLAS/issues).
+
+- Тестирование вёрстки и функционала [сайта по продаже аточастей](https://altoxshop.ru/). Составил [баг-репорты в гугл-документах](https://docs.google.com/spreadsheets/d/14CinIx7YK5bpsLsoTIfQVIN0cnLMczMvvO_vzygFobs/edit?usp=sharing).
