@@ -21,5 +21,5 @@
 
 - Пишу автотесты для пет-проекта [тетрис онлайн](https://tetris.pet-projets.ru/). [Ссылка на репозиторий с моим кодом](https://github.com/maries-you/tetris/tree/main/seleniumTests) (папка src/test/java).
 
-- Также являюсь тестировщиком в команде-любителей, которая создаёт [игру-квест](https://sites.google.com/view/conquistadorio). Нашёл много багов, оформил их в Jira. Прикладываю скриншот с некоторыми из них + отзыв разработчика.![Снимок3](https://github.com/Nikitajc1/Portfolio/assets/115161742/0b0ed020-17a0-44ee-8eff-1fb7f9f7946a) ![Снимок4](https://github.com/Nikitajc1/Portfolio/assets/115161742/928bef78-49b1-4b98-b98b-1f1ad4d0c2da)
+- Также являюсь тестировщиком в команде, которая создаёт [игру-квест](https://sites.google.com/view/conquistadorio). Нашёл много багов, оформил их в Jira. Прикладываю скриншот с некоторыми из них + отзыв разработчика.![Снимок3](https://github.com/Nikitajc1/Portfolio/assets/115161742/0b0ed020-17a0-44ee-8eff-1fb7f9f7946a) ![Снимок4](https://github.com/Nikitajc1/Portfolio/assets/115161742/928bef78-49b1-4b98-b98b-1f1ad4d0c2da)
 
