@@ -24,3 +24,7 @@
 - Также являюсь тестировщиком в команде, которая создаёт [игру-квест](https://sites.google.com/view/conquistadorio). Нашёл много багов, оформил их в Jira. Прикладываю скриншот с некоторыми из них + отзыв разработчика.![Снимок3](https://github.com/Nikitajc1/Portfolio/assets/115161742/0b0ed020-17a0-44ee-8eff-1fb7f9f7946a) ![Снимок4](https://github.com/Nikitajc1/Portfolio/assets/115161742/928bef78-49b1-4b98-b98b-1f1ad4d0c2da)
 ![Конкист](https://github.com/Nikitajc1/Portfolio/assets/115161742/2e54a003-2fac-45a9-8f4b-0f7fa2fe24b4)
 
+- Тестирование мобильного приложения "Iqra", заведение баг-репортов на доске Trello ![image](https://github.com/Nikitajc1/Portfolio/assets/115161742/d8ae7ef6-dd8e-4aeb-9395-83670ccb0ca9)
+, сравнение с макетами в Figma ![image](https://github.com/Nikitajc1/Portfolio/assets/115161742/64c05fa3-401b-4c02-800a-96c9081b513f)
+
+
